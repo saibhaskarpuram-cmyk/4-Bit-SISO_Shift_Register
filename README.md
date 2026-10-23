@@ -4,7 +4,7 @@ A small digital design taken through the complete RTL-to-GDSII flow with open-so
 
 **Author:** `< PURAM SAI BHASKAR >` | 
 **Roll number:** `< 24EG104B53 >` |
-**Guide:** `<->`
+
 **Institution:** Anurag University, School of Engineering, Department of Electronics and Communication Engineering
 
 ---
