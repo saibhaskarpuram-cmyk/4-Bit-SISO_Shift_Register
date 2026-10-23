@@ -1,4 +1,7 @@
 # 4-Stage Serial-In Serial-Out (SISO) Shift Register: RTL to GDSII on SKY130
+PROJECT EXPLAINATION VIDEO=
+
+
 
 A small digital design taken through the complete RTL-to-GDSII flow with open-source tools and the SkyWater SKY130 130 nm process: RTL, simulation, synthesis, floorplan, power planning, placement, clock tree synthesis, routing, static timing analysis at 16 PVT corners, parasitic extraction, DRC, LVS and a final GDSII layout.
 
