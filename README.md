@@ -1,5 +1,5 @@
 # 4-Stage Serial-In Serial-Out (SISO) Shift Register: RTL to GDSII on SKY130
-PROJECT EXPLAINATION VIDEO=
+PROJECT EXPLAINATION VIDEO=https://drive.google.com/file/d/1zmpX5CvGFHejlwKqmwbt2PsfJIOsHkxa/view?usp=drivesdk
 
 
 
