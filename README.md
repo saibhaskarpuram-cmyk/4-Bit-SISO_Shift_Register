@@ -230,6 +230,14 @@ Post-routing STA on the final layout at all 16 liberty corners, first with paras
 | tt_025C_1v80 | 9.49 | 0.43 | 9.49 | 0.44 |
 | tt_100C_1v80 | 9.50 | 0.44 | 9.49 | 0.44 |
 
+
+| Corner | Library | Setup slack | Hold slack | Result |
+|---|---|---|---|---|
+| SS | `ss_100C_1v40` | 8.38 ns | 1.27 ns | MET |
+| TT | `tt_025C_1v80` | 9.49 ns | 0.43 ns | MET |
+| FF | `ff_n40C_1v56` | 9.50 ns | 0.42 ns | MET |
+
+
 Setup is tightest in the slowest corner (`ss_n40C_1v28`) and hold is tightest in the fastest corners (`ff_*_1v95`). The critical path is a single flip-flop-to-flip-flop stage with about 0.4 ns of data delay against a 10 ns period.
 
 <!-- ADD IMAGE HERE: images/9_corner_slacks.png (setup and hold slack at all 16 corners, estimated parasitics and extracted SPEF) -->
